@@ -21,18 +21,18 @@ function maybeTrue() {
   return Math.random() >= 0.5
 }
 
-function doWhileLoop(array){
-  do{
-<<<<<<< HEAD
-    array.pop()
-=======
-    array.pop
->>>>>>> 9dc02fe1fd3d3fb9e517e726c607602ecaf1c73b
-  } while( array.length > 0 || maybeTrue()){
-    array.pop()
-  }
-  return array
-}
+// function doWhileLoop(array){
+//   do{
+// <<<<<<< HEAD
+//     array.pop()
+// =======
+//     array.pop
+// >>>>>>> 9dc02fe1fd3d3fb9e517e726c607602ecaf1c73b
+//   } while( array.length > 0 || maybeTrue()){
+//     array.pop()
+//   }
+//   return array
+// }
 
 
 
