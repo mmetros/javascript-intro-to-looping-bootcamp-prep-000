@@ -16,7 +16,7 @@ function whileLoop(number){
   }
   return "done"
 }
-String
+
 function maybeTrue() {
   return Math.random() >= 0.5
 }
